@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+#cont{
+  width: 50%;
+  margin-left: 300px;
+  margin-top: 100px;
+}
+h1{
+  margin-left: 300px;
+  margin-top: 100px;
+  
+}
+#btn1{
+  background-color: white;
+  color: black;
+
+
+}
+#btn1:hover{
+  background-color: rgb(22, 107, 156);
+  color: white;
+}
+#btn2{
+  background-color: white;
+  color: black;
+  margin-left: 2px;
+
+}
+#btn2:hover{
+  
+  background-color: rgb(22, 107, 156);
+  margin-left: 2px;
+  color: white;
+}
+#btn3{
+  background-color: white;
+  color: black;
+  margin-left: 2px;
+
+}
+#btn3:hover{
+  
+  background-color: rgb(22, 107, 156);
+  margin-left: 2px;
+  color: white;
+}
+#btn4{
+  background-color: white;
+  color: black;
+  margin-left: 2px;
+
+}
+#btn4:hover{
+  
+  background-color: rgb(22, 107, 156);
+  margin-left: 2px;
+  color: white;
+}
+
+
+#navbarSupportedContent ul li a{
+  transition: .5s ease;
+
+}
+#navbarSupportedContent ul li a:hover{
+  
+  background-color: cadetblue;
+
+
+}
+#footer{
+  transform: translate(45%,213px);
+}
